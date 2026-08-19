@@ -1,2 +1,6 @@
++ thischangelogisbydiscordbot
+- thisisnotbydiscordbot
++ ilieditis
+
 - TEST2
 + TEST1
