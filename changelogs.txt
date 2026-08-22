@@ -1,6 +1,6 @@
-+ thischangelogisbydiscordbot
-- thisisnotbydiscordbot
-+ ilieditis
-
-- TEST2
-+ TEST1
++ Release
++ Basic visual functions
++ Basic combat functions
++ Basic movement functions
++ Basic gui settings
+- Streamproof function removed due to bugs
