@@ -1,3 +1,6 @@
-+ HOTFIX
-+ Whole new UI
-- Removed desync (patched)
++ RELEASE
++ Basic visual functions
++ Basic combat functions
++ Basic player functions
++ Basic movement functions
++ Basic player functions
