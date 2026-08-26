@@ -1,6 +1,3 @@
-+ Release
-+ Basic visual functions
-+ Basic combat functions
-+ Basic movement functions
-+ Basic gui settings
-- Streamproof function removed due to bugs
++ Temp UI Added
++ Fixed default stuff not working
+- Streamproof removed for now
