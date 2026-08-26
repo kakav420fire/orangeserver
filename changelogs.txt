@@ -1,3 +1,3 @@
-+ New UI look
-+ More user friendly UI
-- Streamproof still not implemented YET
++ HOTFIX
++ Whole new UI
+- Removed desync (patched)
