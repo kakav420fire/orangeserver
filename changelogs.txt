@@ -1,6 +1,2 @@
-+ RELEASE
-+ Basic visual functions
-+ Basic combat functions
-+ Basic player functions
-+ Basic movement functions
-+ Basic player functions
++ Updated to newest roblox version
++ Fix driver button added to LOADER
